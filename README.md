@@ -44,4 +44,4 @@ We can further develop this single webpage to multiple webpages for each section
 # Note 
 This site best viewed in Google Chrome browser
 
-### Author name:  RAJESH CHOUDHARY
+### Author name:  Himanshu Choubey
